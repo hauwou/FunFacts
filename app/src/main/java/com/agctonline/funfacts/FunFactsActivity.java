@@ -13,6 +13,7 @@ import android.widget.Toast;
 
 import java.util.Random;
 
+//added some text to test push github
 
 public class FunFactsActivity extends Activity {
 
