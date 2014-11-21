@@ -2,6 +2,7 @@ package com.agctonline.funfacts;
 
 import java.util.Random;
 
+//added text
 
 public class FactBook {
 
