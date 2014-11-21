@@ -14,6 +14,7 @@ import android.widget.Toast;
 import java.util.Random;
 
 //added some text to test push github
+//added some text to test pull from github
 
 public class FunFactsActivity extends Activity {
 
